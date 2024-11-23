@@ -1,0 +1,2 @@
+Encrypted Data: B7ypmcKTIxV9XrW5BcU=
+Metadata: {'key': 'Zg4MPmwykaHu8RkVoE0pWA==', 'shift': 64, 'seed': '3S6ZzHx4Mo+FUbS0LImLBw==', 'operations': ['shift_encrypt', 'reverse_encrypt', 'xor_encrypt']}
