@@ -48,11 +48,11 @@ Decrypted Data: Hello, World!
 If the decrypted data is binary, it will be saved as `keys.bin`.
 
 ### Save and Load Files 💾:
-- Encrypted data, along with the metadata, is saved into a `.txt` file with the following structure:
-  ```
-  Encrypted Data: <encrypted_data>
-  Metadata: {'key': '<key>', 'shift': <shift>, 'seed': '<seed>', 'operations': ['operation1', 'operation2']}
-  ```
+Encrypted data, along with the metadata, is saved into a `.txt` file with the following structure:
+```
+Encrypted Data: <encrypted_data>
+Metadata: {'key': '<key>', 'shift': <shift>, 'seed': '<seed>', 'operations': ['operation1', 'operation2']}
+```
 
 ## Dependencies 📦
 - Python 3.x
